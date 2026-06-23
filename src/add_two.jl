@@ -1,3 +1,3 @@
-function add_one(x)
+function add_two(x)
     return x + 2
 end
